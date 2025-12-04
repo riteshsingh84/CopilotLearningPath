@@ -12,7 +12,7 @@ export const moduleContent = {
       title: "Overview",
       content: `
         <p>This comprehensive learning roadmap is designed to help you integrate AI into your software development workflow using GitHub Copilot in VS Code and Visual Studio IDE. Whether you're a beginner or experienced developer, this step-by-step plan will guide you through mastering AI-assisted programming to enhance productivity and code quality.
-         <img src="../image/GitHubCopilotLearningPath.png" alt="GitHub Copilot Learning Path" style="width: 100%; margin: 1rem auto; display: block; border-radius: 8px;">
+         <img src="./image/GitHubCopilotLearningPath.png" alt="GitHub Copilot Learning Path" style="width: 100%; margin: 1rem auto; display: block; border-radius: 8px;">
         </p>       
         <div class="card">
           <h3>What You'll Learn</h3>
