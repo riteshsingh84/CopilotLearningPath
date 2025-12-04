@@ -7,6 +7,7 @@
 
 ## 📑 Table of Contents
 - [Overview](#-overview)
+- [What You will Learn](#-WhatYouWillLearn)
 - [Prerequisites](#-Prerequisites)
 - [Roadmap](#-Roadmap)
 - [License](#-license)
@@ -16,6 +17,23 @@
 
 This comprehensive learning roadmap is designed to help you integrate AI into your software development workflow using GitHub Copilot in VS Code and Visual Studio IDE. Whether you're a beginner or experienced developer, this step-by-step plan will guide you through mastering AI-assisted programming to enhance productivity and code quality.
 
+This course is organized into 8 phases, each building on the previous one:
+- **Foundation & Setup** - Understanding Copilot and getting it installed
+- **Core Features & Basic Usage** - Learning inline suggestions and chat interface
+- **Advanced Prompt Engineering** - Crafting effective prompts and managing context
+- **Productivity Workflows** - Code generation, refactoring, and optimization
+- **Testing & Debugging** - Generating tests and resolving errors
+- **Security & Code Quality** - Best practices and code review
+- **Advanced Features & Agents** - Agent mode and customization
+- **Real-World Projects & Certification** - Hands-on projects and certification prep
+
+## 📜What You Will Learn
+
+- How to effectively use GitHub Copilot in development workflow
+- Advanced prompt engineering techniques for better AI suggestions
+- Best practices for testing, debugging, and security with AI assistance
+- Productivity workflows and real-world project applications
+  
 ## ⚙️Prerequisites
 
 Before starting, ensure you have:
