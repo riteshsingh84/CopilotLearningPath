@@ -120,8 +120,6 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.5rem;
-  position: fixed;
-  width: 100%;
 }
 
 .menu-toggle {
@@ -286,6 +284,10 @@ pre code {
   .menu-toggle {
     display: block;
   }
+  .top-bar {  
+  position: fixed;
+  width: 100%;
+}
 }
 /* Light Theme */
 [data-theme="light"] {
