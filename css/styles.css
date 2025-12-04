@@ -120,6 +120,8 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 0.5rem;
+  position: fixed;
+  width: 100%;
 }
 
 .menu-toggle {
