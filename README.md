@@ -10,7 +10,7 @@
 - [What You will Learn](#-WhatYouWillLearn)
 - [Prerequisites](#-Prerequisites)
 - [Roadmap](#-Roadmap)
-- [GitHub Copilot-300 Certification](#-"Certification")
+- [GitHub Copilot-300 Certification](#-Certification)
 - [License](#-license)
 
 
