@@ -10,7 +10,7 @@
 - [What You will Learn](#-WhatYouWillLearn)
 - [Prerequisites](#-Prerequisites)
 - [Roadmap](#-Roadmap)
-- [GitHub Copilot-300 Certification](#-GH-300Certification)
+- [GitHub Copilot-300 Certification](#-"Certification")
 - [License](#-license)
 
 
@@ -63,7 +63,7 @@ Happy coding with AI!
 <img width="1907" height="1041" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/image/GitHubCopilotLearningPath.png" />
 <!-- PROJECTS_END -->
 
-## 📑GitHub Copilot-300 Certification
+## 📑Certification
 
 - ### [Download GitHub Copilot Certification Details](https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GH-300_Certification.pdf)
 - ### [GitHub Copilot Quiz - 30 - Part1](https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70)
