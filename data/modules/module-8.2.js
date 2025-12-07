@@ -40,6 +40,10 @@ export const moduleContent = {
       title: "Resources",
       type: "links",
       items: [
+        { text: "Download GitHub Copilot Certification Strategy Guide", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GH-300_Certification_Strategy_Guide.pdf" },
+        { text: "GitHub Copilot Certification (GH-300)", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Ritesh-Badges.md" },
+        { text: "GitHub Copilot Quiz - 30 - Part1", url: "https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70" },
+        { text: "GitHub Copilot Quiz - 66 - Part2", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GitHub%20Copilot%20Learning%20Path-Details.pdf" },
         { text: "GitHub Copilot Certification - Microsoft Learn", url: "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/" },
         { text: "GitHub Copilot Certification Prep Course", url: "https://github.com/orgs/community/discussions/144939" },
         { text: "Certification Exam Study Guide", url: "https://www.codecademy.com/resources/blog/github-copilot-certification-how-to-prepare" }
