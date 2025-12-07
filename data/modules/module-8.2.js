@@ -55,7 +55,15 @@ export const moduleContent = {
       `
     },    
     {
-      title: "3. Sample Question",
+      title: "3. Prepare for the Exam",
+      type: "links",
+      items: [       
+        { text: "GitHub Copilot Fundamentals Part 1 of 2", url: "https://learn.microsoft.com/en-us/training/paths/copilot/" },
+        { text: "GitHub Copilot Fundamentals Part 2 of 2", url: "https://learn.microsoft.com/en-us/training/paths/gh-copilot-2/" },
+        ]
+    },
+    {
+      title: "4. Sample Question",
       type: "links",
       items: [       
         { text: "GitHub Copilot Quiz - 30 - Part1", url: "https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70" },
