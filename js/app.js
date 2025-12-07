@@ -30,6 +30,9 @@ class App {
         this.updateProgress();
         this.setupEventListeners();
         this.handleRouting();
+        // Set footer year if present
+        const yearEl = document.getElementById('year');
+        if (yearEl) yearEl.textContent = new Date().getFullYear();
     }
 
     setupEventListeners() {
@@ -39,9 +42,11 @@ class App {
             this.sidebar.classList.toggle('open');
         });
 
-        this.themeToggle.addEventListener('click', () => {
-            this.toggleTheme();
-        });
+        if (this.themeToggle) {
+            this.themeToggle.addEventListener('click', () => {
+                this.toggleTheme();
+            });
+        }
 
         // Close sidebar on mobile when clicking outside
         document.addEventListener('click', (e) => {
