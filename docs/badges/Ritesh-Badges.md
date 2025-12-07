@@ -18,7 +18,7 @@ GitHub is evolving Copilot to deliver a personalized experience for every team, 
  - Accelerates delivery cycles and decision-making.
  - Strengthens governance and compliance through integrated permissions.
 
-<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-GitHub-Copilot.png" />
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-GitHub-Copilot.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/2jtulrpv)
 
 
 ## [Responsible AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/)
