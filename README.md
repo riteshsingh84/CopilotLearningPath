@@ -63,11 +63,13 @@ Happy coding with AI!
 <img width="1907" height="1041" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/image/GitHubCopilotLearningPath.png" />
 <!-- PROJECTS_END -->
 
-## 📑Certification
+## 📑[Certification](https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Ritesh-Badges.md)
 
 - ### [Download GitHub Copilot Certification Details](https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GH-300_Certification.pdf)
 - ### [GitHub Copilot Quiz - 30 - Part1](https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70)
 - ### [GitHub Copilot Quiz - 100 - Part2](https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=f64ef13a-035d-4b3e-aa07-e17b78722caf)
+- ### [Ritesh Badges](https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Ritesh-Badges.md)
+
 
 ## 📜 License
 This project is licensed under the GPL-3.0 license. See [LICENSE](LICENSE) for details.
