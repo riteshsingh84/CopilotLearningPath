@@ -46,7 +46,7 @@ As you begin your AI journey, we urge you to approach it with responsibility and
 
 These principles encourage organizations to adopt these standards and provide resources like this module to help developers build effective, safe, and transparent AI solutions.
 
-<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/ResponsibleAI.png" />
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/ResponsibleAI.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/9rapmgtu)
 
 ## [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
 
@@ -65,7 +65,7 @@ Prompt engineering is both an art and a science critical for achieving precise, 
 
 By mastering these concepts, you can leverage GitHub Copilot to write better code, faster, and with greater confidence.
 
-<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-prompt-engineering.png" />
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-prompt-engineering.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/du3p9exj)
 
 ## [Introduction to Copilot Spaces](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/)
 
@@ -83,4 +83,4 @@ Spaces curate key sources such as code files, documentation, issues, and pull re
 - **Enhances Collaboration & Governance:** Built on GitHub’s permission model, ensuring secure knowledge sharing and compliance.
 - **Scales Expertise:** Lowers cognitive load and improves productivity across development and operational workflows.
 
-<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-Copilot-Spaces.png" />
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-Copilot-Spaces.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/vtsagxdm)
