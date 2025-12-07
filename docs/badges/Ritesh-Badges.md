@@ -67,7 +67,7 @@ By mastering these concepts, you can leverage GitHub Copilot to write better cod
 
 <img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-prompt-engineering.png" />
 
-## Introduction to Copilot Spaces
+## [Introduction to Copilot Spaces](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/)
 
 **Copilot Spaces** is a GitHub feature that enables teams to deliver faster, more accurate results by providing AI assistance grounded in relevant context.
 Spaces curate key sources such as code files, documentation, issues, and pull requests so Copilot can generate responses that are predictable, high-quality, and aligned with organizational standards.
