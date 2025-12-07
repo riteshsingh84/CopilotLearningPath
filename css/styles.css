@@ -480,6 +480,17 @@ pre code {
 /* On very small screens, reduce footer padding */
 @media (max-width: 420px) {
   .app-footer { padding: 0.4rem 0.75rem; }
+
+  .app-footer .footer-inner {    
+    display: block;
+    text-align: center; 
+  }
+  .social-links {
+    display: ruby;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+  }
 }
 
 .social-links svg {
