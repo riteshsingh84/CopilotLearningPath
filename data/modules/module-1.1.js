@@ -15,14 +15,16 @@ export const moduleContent = {
         <div class="card">
           <h3>How it works</h3>
           <p>Copilot uses OpenAI's Codex model to analyze the context in your active file and related files. It sends this context to the GitHub Copilot service, which returns suggestions.</p>
-          <pre><code class="language-javascript">// Example: Copilot can generate a function from a comment
-// Calculate the number of days between two dates
-function calculateDaysBetweenDates(begin, end) {
-  const oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
-  const firstDate = new Date(begin);
-  const secondDate = new Date(end);
-  return Math.round(Math.abs((firstDate - secondDate) / oneDay));
-}</code></pre>
+          <div class="language-javascript1">
+          // Example: Copilot can generate a function from a comment
+          <br/>// Calculate the number of days between two dates
+          <br/>  function calculateDaysBetweenDates(begin, end) {
+          <br/>   const oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
+          <br/>    const firstDate = new Date(begin);
+          <br/>    const secondDate = new Date(end);
+          <br/>    return Math.round(Math.abs((firstDate - secondDate) / oneDay));
+          <br/>  }
+          </div>
         </div>
       `
     },
