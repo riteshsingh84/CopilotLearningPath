@@ -5,7 +5,14 @@ class App {
         this.courseStructure = courseStructure;
         this.completedModules = new Set(JSON.parse(localStorage.getItem('copilotCourseProgress')) || []);
         this.currentModuleId = null;
-        this.currentTheme = localStorage.getItem('copilotCourseTheme') || 'light';
+        // Default to stored theme or system preference (dark if prefers-color-scheme: dark)
+        const storedTheme = localStorage.getItem('copilotCourseTheme');
+        if (storedTheme) {
+            this.currentTheme = storedTheme;
+        } else {
+            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            this.currentTheme = prefersDark ? 'dark' : 'light';
+        }
         this.sidebarNav = document.getElementById('sidebar-nav');
         this.contentArea = document.getElementById('content-area');
         this.courseProgress = document.getElementById('course-progress');
@@ -242,9 +249,14 @@ class App {
     applyTheme() {
         if (this.currentTheme === 'light') {
             document.documentElement.setAttribute('data-theme', 'light');
+            this.themeToggle.setAttribute('aria-label', 'Switch to dark theme');
         } else {
             document.documentElement.removeAttribute('data-theme');
+            this.themeToggle.setAttribute('aria-label', 'Switch to light theme');
         }
+
+        // Update visible icon state
+        // Icons are animated/visible via CSS transitions depending on data-theme
     }
 
     toggleTheme() {
