@@ -78,7 +78,8 @@ export const moduleContent = {
         { text: "GitHub Copilot Certification (GH-300)", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Ritesh-Badges.md" },       
         { text: "GitHub Copilot Certification - Microsoft Learn", url: "https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/" },
         { text: "GitHub Copilot Certification Prep Course", url: "https://github.com/orgs/community/discussions/144939" },
-        { text: "Certification Exam Study Guide", url: "https://www.codecademy.com/resources/blog/github-copilot-certification-how-to-prepare" }
+        { text: "Certification Exam Study Guide", url: "https://www.codecademy.com/resources/blog/github-copilot-certification-how-to-prepare" },
+        { text: "Study guide for GH-300: GitHub Copilot", url: "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300" }
       ]
     }
   ]
