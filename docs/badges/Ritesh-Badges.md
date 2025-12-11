@@ -84,3 +84,23 @@ Spaces curate key sources such as code files, documentation, issues, and pull re
 - **Scales Expertise:** Lowers cognitive load and improves productivity across development and operational workflows.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-Copilot-Spaces.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/vtsagxdm)
+
+## [Using Advanced GitHub Copilot Features](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/)
+
+GitHub Copilot is a tool that offers many ways to interact with your project, and it helps you become a more efficient developer. Adding tests, fixing bugs, or generating automation allows you to improve the development lifecycle for your projects.
+
+Copilot analyses your file and related files, offering suggestions in your text editor. It uses context from written code and comments, and then suggests new lines or entire functions.
+
+**Learning objectives** 
+ - Apply slash commands to make code changes
+ - Interact with GitHub Copilot using the Chat feature.
+ - Ask questions about your project using an agent.
+
+**Business Impact**
+
+ - **Accelerates Development:** Reduces time spent on repetitive tasks like writing tests or fixing bugs.
+ - **Improves Code Quality:** Provides context-aware suggestions that align with best practices.
+ - **Enhances Collaboration:** Enables developers to interact with AI in natural language, reducing friction in workflows.
+ - **Boosts Productivity:** Frees developers to focus on higher-value tasks by automating routine coding activities.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Using-Advanced-GitHub-Copilot-Features.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/372kk9ph)
