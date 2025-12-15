@@ -78,6 +78,7 @@ export const moduleContent = {
         { text: "Download GitHub Copilot Course Roadmap Details", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GitHub%20Copilot%20Learning%20Path-Details.pdf" },
         { text: "Download GitHub Copilot Course Roadmap PPT", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GitHub%20Copilot%20Learning%20Path%20PPT.pdf" },
         { text: "Download GitHub Copilot Certification Strategy Guide", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GH-300_Certification_Strategy_Guide.pdf" },
+        { text: "Download Prompt Engineering with GitHub Copilot", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/Introduction-to-Prompt-Engineering-with-GitHub-Copilot.pdf" },
         { text: "GitHub Copilot Quiz - 30 - Part1", url: "https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70" },
         { text: "GitHub Copilot Quiz - 66 - Part2", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GitHub%20Copilot%20Learning%20Path-Details.pdf" },
         { text: "GitHub Copilot Official Documentation", url: "https://docs.github.com/en/copilot" },
