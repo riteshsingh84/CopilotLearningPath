@@ -67,7 +67,7 @@ export const moduleContent = {
       type: "links",
       items: [       
         { text: "GitHub Copilot Quiz - 30 - Part1", url: "https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=bccf1a7c-36d6-49af-9809-be38e8547b70" },
-        { text: "GitHub Copilot Quiz - 66 - Part2", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/GitHub%20Copilot%20Learning%20Path-Details.pdf" },
+        { text: "GitHub Copilot Quiz - 66 - Part2", url: "https://notebooklm.google.com/notebook/a0d5bb1c-6774-480e-bdc9-efa3e21d7dea?artifactId=f64ef13a-035d-4b3e-aa07-e17b78722caf" },
         ]
     },
     {
