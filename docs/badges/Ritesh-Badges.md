@@ -104,3 +104,20 @@ Copilot analyses your file and related files, offering suggestions in your text 
  - **Boosts Productivity:** Frees developers to focus on higher-value tasks by automating routine coding activities.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Using-Advanced-GitHub-Copilot-Features.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/372kk9ph)
+
+## [AI Python for Beginners](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/)
+
+AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isn’t to become a software developer or AI engineer
+Copilot analyses your file and related files, offering suggestions in your text editor. It uses context from written code and comments, and then suggests new lines or entire functions.
+
+**Learning objectives** 
+
+Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization.
+
+Discover how Python can be applied in various domains such as business, marketing, and journalism to solve real-world problems and enhance efficiency through practical applications.
+
+**Business Impact**
+
+Leverage AI assistants to debug code, explain concepts, and enhance your learning, mirroring real-world software development practices.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/AI-Python-for-Beginners.png" />](https://learn.deeplearning.ai/accomplishments/3b7c7a6d-aab8-4c81-a0a2-b45823b63802)
