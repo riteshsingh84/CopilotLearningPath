@@ -60,6 +60,7 @@ export const moduleContent = {
       items: [
         { text: "Introduction to GitHub Copilot - Microsoft Learn", url: "https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/" },
         { text: "Responsible AI with GitHub Copilot", url: "https://learn.microsoft.com/en-us/training/modules/responsible-ai-github-copilot/" },
+        { text: "Responsible AI with GitHub Copilot PDF", url: "./docs/responsible-ai-github-copilot.pdf" },
         { text: "GitHub Copilot Documentation", url: "https://docs.github.com/en/copilot" }
       ]
     },
