@@ -59,7 +59,7 @@ export const moduleContent = {
       type: "links",
       items: [
         { text: "Introduction to GitHub Copilot - Microsoft Learn", url: "https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/" },
-        { text: "Responsible AI with GitHub Copilot", url: "https://learn.microsoft.com/en-us/training/modules/responsible-ai-github-copilot/" },
+        { text: "Responsible AI with GitHub Copilot", url: "https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/" },
         { text: "Responsible AI with GitHub Copilot PDF", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/Responsible_AI_with_GitHub_Copilot.pdf" },
         { text: "GitHub Copilot Documentation", url: "https://docs.github.com/en/copilot" }
       ]
