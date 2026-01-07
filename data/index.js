@@ -76,12 +76,12 @@ export const courseStructure = [
     modules: [
       { id: "module-9.0", title: "Additional Learning Resources", file: "./data/modules/module-9.0.js" }
     ]
-  },
-  {
-    id: "phase-10",
-    title: "Documentation & Resources",
-    modules: [
-      { id: "module-10.0", title: "Documentation & Resources", file: "./data/modules/module-10.0.js" }
-    ]
   }
+  // {
+  //   id: "phase-10",
+  //   title: "Documentation & Resources",
+  //   modules: [
+  //     { id: "module-10.0", title: "Documentation & Resources", file: "./data/modules/module-10.0.js" }
+  //   ]
+  // }
 ];
