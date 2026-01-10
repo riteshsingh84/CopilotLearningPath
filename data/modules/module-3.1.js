@@ -75,6 +75,7 @@ export const moduleContent = {
       items: [
         { text: "Download Prompt Engineering with GitHub Copilot", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/Introduction-to-Prompt-Engineering-with-GitHub-Copilot.pdf" },
         { text: "Prompt Engineering - GitHub Copilot Fundamentals Part 1 of 2", url: "https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/" },
+        { text: "Download Google Prompt Engineering Whitepaper", url: "https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/Google_Prompt_Engineering_Whitepaper.pdf" },
         { text: "Prompt Engineering for GitHub Copilot", url: "https://docs.github.com/en/copilot/concepts/prompting/prompt-engineering" },
         { text: "Best Practices for AI Coding Assistants", url: "https://engineering.axur.com/2025/05/09/best-practices-for-ai-assisted-coding.html" },
         { text: "Write Effective Prompts for Copilot", url: "https://learn.microsoft.com/en-us/azure/copilot/write-effective-prompts" }
