@@ -143,7 +143,7 @@ Managing and customizing GitHub Copilot lets organizations align the tool with t
  - **Tailored Productivity:** Ensures Copilot suggestions adhere to internal coding standards and best practices.
  - **Risk Reduction:** Minimizes exposure by controlling data flow and telemetry settings.
 
-[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/placeholder)
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZDG3W9)
 
 ## [Developer Use cases for AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/developer-use-cases-for-ai-with-github-copilot/)
 
