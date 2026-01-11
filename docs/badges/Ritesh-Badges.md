@@ -123,7 +123,7 @@ Writing unit tests is an essential practice for ensuring code correctness, preve
  - **Speeds Development:** Automates routine test creation so developers focus on critical logic.
  - **Improves Maintainability:** Encourages better design through testable code patterns.
 
-[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests-Using-GitHub-Copilot-Tools.png" />](hhttps://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/HZQLGRM8?sharingId=48F9C6738C851CC5)
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests-Using-GitHub-Copilot-Tools.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/HZQLGRM8)
 
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
