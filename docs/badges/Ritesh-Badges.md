@@ -138,3 +138,23 @@ ChatGPT Prompt Engineering for Developers is a compact, practical course designe
 This short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) will describe how LLMs work, provide best practices for prompt engineering, and show how LLM APIs can be used in applications for a variety of tasks.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/ChatGPT-Prompt%20Engineering-for-Developers.png" />](https://learn.deeplearning.ai/accomplishments/daba0c92-c949-4179-a4c8-c4460c0beb78)
+
+
+## [Develop Unit Tests Using GitHub Copilot Tools](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
+
+Writing unit tests is an essential practice for ensuring code correctness, preventing regressions, and enabling safe refactoring. GitHub Copilot Tools can assist by generating test scaffolding, suggesting assertions, and helping create mocks and edge-case scenarios.
+
+**Learning objectives**
+ - Understand the importance of unit testing and where to apply it.
+ - Use GitHub Copilot Tools to generate test cases and scaffolding.
+ - Learn how to create effective assertions and edge-case tests.
+ - Apply mocking and dependency injection strategies suggested by Copilot Tools.
+ - Integrate generated tests into CI pipelines and maintain test quality.
+
+**Business Impact**
+
+ - **Reduces Defects:** Increases confidence by catching bugs early in development.
+ - **Speeds Development:** Automates routine test creation so developers focus on critical logic.
+ - **Improves Maintainability:** Encourages better design through testable code patterns.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/placeholder)
