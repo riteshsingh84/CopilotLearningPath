@@ -2,6 +2,24 @@
 
 ### [See my Complete GitHub Copilot Learning Badges](https://learn.microsoft.com/en-us/users/riteshsingh/achievements?source=docs&tab=tab-modules)
 
+## [GitHub Copilot Fundamentals — Part 1 of 2](https://learn.microsoft.com/en-us/training/modules/github-copilot-fundamentals-part-1/)
+
+This module covers the core fundamentals of GitHub Copilot, introducing how Copilot assists developers in writing, understanding, and navigating code. It establishes the baseline knowledge needed before diving into advanced features.
+
+**Learning objectives**
+ - Describe what GitHub Copilot is and how it complements developer workflows.
+ - Identify the primary ways Copilot can be invoked within editors and IDEs.
+ - Explain basic configuration options and account types.
+ - Recognize common scenarios where Copilot is most beneficial.
+
+**Business Impact**
+
+ - **Improves onboarding:** Helps new developers become productive faster with contextual suggestions.
+ - **Increases throughput:** Reduces time spent on boilerplate and repetitive code.
+ - **Encourages consistency:** Promotes use of standard patterns and common practices.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/GitHub-Copilot-Fundamentals-Part-1-fo-2.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/FQK9U2KX)
+
 ## [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
 
 GitHub is evolving Copilot to deliver a personalized experience for every team, project, and repository. The goal is to optimize the entire software development lifecycle from writing code to submitting pull requests and beyond by leveraging organizational context and insights.
