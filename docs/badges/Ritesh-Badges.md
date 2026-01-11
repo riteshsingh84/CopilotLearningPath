@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [GitHub Copilot Fundamentals — Part 1 of 2](#fundamentals-part-1)
+- [GitHub Copilot Fundamentals — Part 1 of 2](#github-copilot-fundamentals-part-1-of-2)
 - [Introduction to GitHub Copilot](#introduction-to-github-copilot)
 - [Responsible AI with GitHub Copilot](#responsible-ai-with-github-copilot)
 - [Introduction to prompt engineering with GitHub Copilot](#introduction-to-prompt-engineering-with-github-copilot)
@@ -17,7 +17,6 @@
 - [AI Python for Beginners](#ai-python-for-beginners)
 - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 
-<a id="fundamentals-part-1"></a>
 ## [GitHub Copilot Fundamentals — Part 1 of 2](https://learn.microsoft.com/en-us/training/modules/github-copilot-fundamentals-part-1/)
 
 This module covers the core fundamentals of GitHub Copilot, introducing how Copilot assists developers in writing, understanding, and navigating code. It establishes the baseline knowledge needed before diving into advanced features.
@@ -36,7 +35,6 @@ This module covers the core fundamentals of GitHub Copilot, introducing how Copi
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/GitHub-Copilot-Fundamentals-Part-1-fo-2.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/FQK9U2KX)
 
-<a id="introduction-to-github-copilot"></a>
 ## [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
 
 GitHub is evolving Copilot to deliver a personalized experience for every team, project, and repository. The goal is to optimize the entire software development lifecycle from writing code to submitting pull requests and beyond by leveraging organizational context and insights.
@@ -56,7 +54,6 @@ GitHub is evolving Copilot to deliver a personalized experience for every team, 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-GitHub-Copilot.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/2jtulrpv)
 
 
-<a id="responsible-ai-with-github-copilot"></a>
 ## [Responsible AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/)
 
 Microsoft and GitHub are committed to leading innovation in AI while ensuring that all systems are developed and used responsibly.
@@ -84,7 +81,6 @@ These principles encourage organizations to adopt these standards and provide re
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/ResponsibleAI.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/9rapmgtu)
 
-<a id="introduction-to-prompt-engineering-with-github-copilot"></a>
 ## [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
 
 This module explored how to maximize GitHub Copilot’s potential through effective prompting.
@@ -104,7 +100,6 @@ By mastering these concepts, you can leverage GitHub Copilot to write better cod
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-prompt-engineering.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/du3p9exj)
 
-<a id="introduction-to-copilot-spaces"></a>
 ## [Introduction to Copilot Spaces](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/)
 
 **Copilot Spaces** is a GitHub feature that enables teams to deliver faster, more accurate results by providing AI assistance grounded in relevant context.
@@ -123,7 +118,6 @@ Spaces curate key sources such as code files, documentation, issues, and pull re
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-Copilot-Spaces.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/vtsagxdm)
 
-<a id="using-advanced-github-copilot-features"></a>
 ## [Using Advanced GitHub Copilot Features](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/)
 
 GitHub Copilot is a tool that offers many ways to interact with your project, and it helps you become a more efficient developer. Adding tests, fixing bugs, or generating automation allows you to improve the development lifecycle for your projects.
@@ -145,7 +139,6 @@ Copilot analyses your file and related files, offering suggestions in your text 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Using-Advanced-GitHub-Copilot-Features.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/372kk9ph)
 
 
-<a id="github-copilot-across-environments"></a>
 ## [GitHub Copilot Across Environments](https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/)
 
 GitHub Copilot can adapt to a wide variety of development environments — from local editors to cloud IDEs and CI systems. This module covers how Copilot integrates across tools and platforms so developers can maintain consistent, productive workflows regardless of where code is written or deployed.
@@ -166,7 +159,6 @@ GitHub Copilot can adapt to a wide variety of development environments — from 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/GitHub-Copilot-Across-Environments.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZD5G39)
 
 
-<a id="management-and-customization-considerations-with-github-copilot"></a>
 ## [Management and customization considerations with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/management-and-customization-considerations-with-github-copilot/)
 
 Managing and customizing GitHub Copilot lets organizations align the tool with their policies, conventions, and governance needs. This module covers administrative controls, policy settings, and ways to customize Copilot behavior to fit team standards.
@@ -186,7 +178,6 @@ Managing and customizing GitHub Copilot lets organizations align the tool with t
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZDG3W9)
 
-<a id="developer-use-cases-for-ai-with-github-copilot"></a>
 ## [Developer Use cases for AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/developer-use-cases-for-ai-with-github-copilot/)
 
 This module highlights practical ways developers can leverage AI-powered assistance with GitHub Copilot to speed up common tasks, improve code quality, and automate repetitive work across the development lifecycle.
@@ -207,7 +198,6 @@ This module highlights practical ways developers can leverage AI-powered assista
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/J3NMDPDT)
 
 
-<a id="develop-unit-tests-using-github-copilot-tools"></a>
 ## [Develop Unit Tests Using GitHub Copilot Tools](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 
 Writing unit tests is an essential practice for ensuring code correctness, preventing regressions, and enabling safe refactoring. GitHub Copilot Tools can assist by generating test scaffolding, suggesting assertions, and helping create mocks and edge-case scenarios.
@@ -227,7 +217,6 @@ Writing unit tests is an essential practice for ensuring code correctness, preve
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests-Using-GitHub-Copilot-Tools.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/HZQLGRM8)
 
-<a id="ai-python-for-beginners"></a>
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
 AI Python for Beginners is designed to help you leverage the power of Python programming, even if your goal isn’t to become a software developer or AI engineer
@@ -245,7 +234,6 @@ Leverage AI assistants to debug code, explain concepts, and enhance your learnin
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/AI-Python-for-Beginners.png" />](https://learn.deeplearning.ai/accomplishments/3b7c7a6d-aab8-4c81-a0a2-b45823b63802)
 
-<a id="chatgpt-prompt-engineering-for-developers"></a>
 ## [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/information)
 
 ChatGPT Prompt Engineering for Developers is a compact, practical course designed to help developers unlock the full potential of large language models (LLMs) using the OpenAI API. Taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI), the course equips learners with the tools and techniques to build intelligent applications that were once too complex, expensive, or technically demanding.
