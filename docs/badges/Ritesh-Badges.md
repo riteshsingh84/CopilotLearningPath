@@ -143,7 +143,26 @@ Managing and customizing GitHub Copilot lets organizations align the tool with t
  - **Tailored Productivity:** Ensures Copilot suggestions adhere to internal coding standards and best practices.
  - **Risk Reduction:** Minimizes exposure by controlling data flow and telemetry settings.
 
-[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Management-and-customization-considerations-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZDG3W9)
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/en-us/users/riteshsingh/achievements/placeholder)
+
+## [Developer Use cases for AI with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/developer-use-cases-for-ai-with-github-copilot/)
+
+This module highlights practical ways developers can leverage AI-powered assistance with GitHub Copilot to speed up common tasks, improve code quality, and automate repetitive work across the development lifecycle.
+
+**Learning objectives**
+ - Learn common developer scenarios where Copilot adds value (tests, docs, refactors, automation).
+ - Understand how to apply Copilot suggestions safely in production code.
+ - Explore patterns for combining Copilot with CI/CD, linters, and code review workflows.
+ - Identify when to trust and when to validate Copilot-generated code.
+ - Measure the impact of Copilot on developer productivity and code quality.
+
+**Business Impact**
+
+ - **Faster Delivery:** Shortens time for common development tasks and reduces manual effort.
+ - **Higher Code Quality:** Encourages the use of best-practice patterns and automated checks.
+ - **Scalable Knowledge:** Helps spread expertise across teams via consistent code suggestions.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Developer-Use-cases-for-AI-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/J3NMDPDT)
 
 
 ## [Develop Unit Tests Using GitHub Copilot Tools](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
