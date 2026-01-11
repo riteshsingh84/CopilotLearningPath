@@ -126,6 +126,26 @@ GitHub Copilot can adapt to a wide variety of development environments — from 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/GitHub-Copilot-Across-Environments.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZD5G39)
 
 
+## [Management and customization considerations with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/management-and-customization-considerations-with-github-copilot/)
+
+Managing and customizing GitHub Copilot lets organizations align the tool with their policies, conventions, and governance needs. This module covers administrative controls, policy settings, and ways to customize Copilot behavior to fit team standards.
+
+**Learning objectives**
+ - Understand admin controls and permission models for Copilot at organization and repository levels.
+ - Configure policies to manage suggestions, data sharing, and telemetry.
+ - Customize Copilot behavior with settings, instructions, and curated context.
+ - Enforce compliance and auditing practices for Copilot usage.
+ - Create guidelines for developers to use Copilot responsibly within your organization.
+
+**Business Impact**
+
+ - **Governance & Compliance:** Helps enforce policy and auditability across teams using Copilot.
+ - **Tailored Productivity:** Ensures Copilot suggestions adhere to internal coding standards and best practices.
+ - **Risk Reduction:** Minimizes exposure by controlling data flow and telemetry settings.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Management-and-customization-considerations-with-GitHub-Copilot.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/CYZDG3W9)
+
+
 ## [Develop Unit Tests Using GitHub Copilot Tools](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 
 Writing unit tests is an essential practice for ensuring code correctness, preventing regressions, and enabling safe refactoring. GitHub Copilot Tools can assist by generating test scaffolding, suggesting assertions, and helping create mocks and edge-case scenarios.
