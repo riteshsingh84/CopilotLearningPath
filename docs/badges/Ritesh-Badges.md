@@ -16,6 +16,11 @@
 - [Develop Unit Tests Using GitHub Copilot Tools](#develop-unit-tests-using-github-copilot-tools)
 - [AI Python for Beginners](#ai-python-for-beginners)
 - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
+ - [Developer Use cases for AI with GitHub Copilot](#developer-use-cases-for-ai-with-github-copilot)
+ - [Develop Unit Tests Using GitHub Copilot Tools](#develop-unit-tests-using-github-copilot-tools)
+ - [Building applications with GitHub Copilot agent mode](#building-applications-with-github-copilot-agent-mode)
+ - [AI Python for Beginners](#ai-python-for-beginners)
+ - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 
 ## [GitHub Copilot Fundamentals — Part 1 of 2](https://learn.microsoft.com/en-us/training/modules/github-copilot-fundamentals-part-1/)
 
@@ -216,6 +221,24 @@ Writing unit tests is an essential practice for ensuring code correctness, preve
  - **Improves Maintainability:** Encourages better design through testable code patterns.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests-Using-GitHub-Copilot-Tools.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/HZQLGRM8)
+
+## [Building applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/building-applications-with-github-copilot-agent-mode/)
+
+GitHub Copilot agent mode enables developers to build AI-driven assistants that can perform multi-step tasks, orchestrate workflows, and interact with code, issues, and external systems. Agent mode provides a higher-level interface for composing capabilities and connecting Copilot with tools and services to automate complex development workflows.
+
+**Learning objectives**
+ - Understand what Copilot agent mode is and how it differs from standard Copilot suggestions.
+ - Learn how to design agents that orchestrate multi-step developer workflows.
+ - Explore integration patterns for connecting agents to tools, APIs, and repositories.
+ - Understand safety, permission, and governance considerations when deploying agents.
+
+**Business Impact**
+
+ - **Automates complex workflows:** Agents can reduce manual coordination by automating multi-step tasks across systems.
+ - **Improves developer productivity:** Frees developers from repetitive orchestration work so they can focus on higher-value tasks.
+ - **Enables richer integrations:** Agents can connect code, issues, and external tools to streamline release and maintenance workflows.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Building-applications-with-GitHub-Copilot-agent-mode.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/PG8DUFY4)
 
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
