@@ -222,7 +222,7 @@ Writing unit tests is an essential practice for ensuring code correctness, preve
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Develop-Unit-Tests-Using-GitHub-Copilot-Tools.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/HZQLGRM8)
 
-## [Building applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/building-applications-with-github-copilot-agent-mode/)
+## [Building applications with GitHub Copilot agent mode](https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/)
 
 GitHub Copilot agent mode enables developers to build AI-driven assistants that can perform multi-step tasks, orchestrate workflows, and interact with code, issues, and external systems. Agent mode provides a higher-level interface for composing capabilities and connecting Copilot with tools and services to automate complex development workflows.
 
@@ -238,7 +238,7 @@ GitHub Copilot agent mode enables developers to build AI-driven assistants that 
  - **Improves developer productivity:** Frees developers from repetitive orchestration work so they can focus on higher-value tasks.
  - **Enables richer integrations:** Agents can connect code, issues, and external tools to streamline release and maintenance workflows.
 
-[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Building-applications-with-GitHub-Copilot-agent-mode.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/PG8DUFY4)
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Building-Applications-With-GitHub-Copilot-Agent-Mode.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/PG8DUFY4)
 
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
