@@ -19,6 +19,7 @@
  - [Developer Use cases for AI with GitHub Copilot](#developer-use-cases-for-ai-with-github-copilot)
  - [Develop Unit Tests Using GitHub Copilot Tools](#develop-unit-tests-using-github-copilot-tools)
  - [Building applications with GitHub Copilot agent mode](#building-applications-with-github-copilot-agent-mode)
+ - [Accelerate development with GitHub Copilot coding agent](#accelerate-development-with-github-copilot-coding-agent)
  - [AI Python for Beginners](#ai-python-for-beginners)
  - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 
@@ -239,6 +240,24 @@ GitHub Copilot agent mode enables developers to build AI-driven assistants that 
  - **Enables richer integrations:** Agents can connect code, issues, and external tools to streamline release and maintenance workflows.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Building-Applications-With-GitHub-Copilot-Agent-Mode.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/PG8DUFY4)
+
+## [Accelerate development with GitHub Copilot coding agent](https://learn.microsoft.com/en-us/training/modules/github-copilot-code-agent/)
+
+GitHub Copilot coding agents help developers accelerate day-to-day coding by providing contextual, task-focused assistance, automating routine edits, and integrating with repository workflows to apply safe, repeatable changes across codebases.
+
+**Learning objectives**
+ - Understand what a Copilot coding agent is and when to use it.
+ - Learn how coding agents assist with code generation, refactors, and large-scale edits.
+ - Explore patterns for integrating agents into CI/CD and repository automation.
+ - Understand safety checks, review flows, and governance for automated code changes.
+
+**Business Impact**
+
+ - **Speeds common tasks:** Automates repetitive edits and routine refactors to reduce developer time on boilerplate work.
+ - **Improves consistency:** Applies standardized patterns across repositories to enforce best practices.
+ - **Reduces review friction:** Provides well-scoped, auditable changes that are easier to review and merge.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Accelerate-Development-With-GitHub-Copilot-Agent.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/NMDRJT8F)
 
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
