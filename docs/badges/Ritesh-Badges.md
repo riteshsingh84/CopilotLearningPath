@@ -20,6 +20,7 @@
  - [Develop Unit Tests Using GitHub Copilot Tools](#develop-unit-tests-using-github-copilot-tools)
  - [Building applications with GitHub Copilot agent mode](#building-applications-with-github-copilot-agent-mode)
  - [Accelerate development with GitHub Copilot coding agent](#accelerate-development-with-github-copilot-coding-agent)
+ - [Introduction to MCP Server](#introduction-to-mcp-server)
  - [AI Python for Beginners](#ai-python-for-beginners)
  - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 
@@ -258,6 +259,24 @@ GitHub Copilot coding agents help developers accelerate day-to-day coding by pro
  - **Reduces review friction:** Provides well-scoped, auditable changes that are easier to review and merge.
 
 [<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Accelerate-Development-With-GitHub-Copilot-Agent.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/NMDRJT8F)
+
+## [Introduction to MCP Server](https://learn.microsoft.com/en-us/training/modules/mcp-server/)
+
+The "Introduction to MCP Server" module introduces the Model Context Protocol (MCP) Server, which enables applications to host and serve model context to AI assistants and agents. MCP Server helps provide relevant, up-to-date context from repositories, documentation, and other structured sources so that assistants can generate grounded, accurate responses.
+
+**Learning objectives**
+ - Understand the role of an MCP Server in delivering contextual information to AI assistants.
+ - Learn how to configure and deploy an MCP Server for local and cloud-hosted scenarios.
+ - Explore patterns for ingesting, updating, and securing contextual data sources.
+ - Integrate MCP Server endpoints with Copilot agent workflows to improve answer grounding.
+
+**Business Impact**
+
+ - **Improves relevance:** Provides assistants with the right context to reduce hallucinations and increase accuracy.
+ - **Speeds adoption:** Simplifies how teams surface documentation and repo context to AI systems.
+ - **Enhances governance:** Centralizes control over what context is shared with assistants and under what policies.
+
+[<img height="100%" alt="image" src="https://github.com/riteshsingh84/CopilotLearningPath/blob/main/docs/badges/Introduction-to-MCP-Server.png" />](https://learn.microsoft.com/api/achievements/share/en-us/riteshsingh/ELHJGNDP)
 
 ## [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information)
 
